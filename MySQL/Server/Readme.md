@@ -44,7 +44,7 @@ default-character-set=utf8
 ```
 cd C:\mysql-8.0.32-winx64\bin
 ```
-  
+接下來執行  
 ```
 mysqld --initialize --console
 ```
