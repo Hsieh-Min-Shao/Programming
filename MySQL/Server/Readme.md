@@ -54,3 +54,15 @@ mysqld --initialize --console
 ```
 mysqld --install
 ```
+
+修改密碼  
+```
+mysqladmin -u root -p password
+```
+  
+登入SQL  
+```
+mysql -u root -p
+```
+
+輸入密碼成功就可以看到這個頁面
