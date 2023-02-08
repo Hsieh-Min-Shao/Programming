@@ -1,11 +1,11 @@
 先下載  
-MySQL Community Server (8.0.32) (壓縮板) 
+MySQL Community Server (8.0.32) (壓縮板)  
 https://dev.mysql.com/downloads/mysql/  
 MySQL Workbench (8.0.32)  
 https://dev.mysql.com/downloads/workbench/  
   
-將下載好的 MySQL Community Server (8.0.32) (壓縮板) 解壓縮放至C槽
-創立一個檔案，名稱為my.ini
+將下載好的 MySQL Community Server (8.0.32) (壓縮板) 解壓縮放至C槽  
+創立一個檔案，名稱為my.ini  
 輸入以下程式碼並儲存在my.ini  
 ```
 [mysqld]
@@ -40,13 +40,17 @@ port=3306
 default-character-set=utf8
 ```
   
+接下來再以系統管理員的身分開啟CMD，並先切到檔案位置  
+```
+cd C:\mysql-8.0.32-winx64\bin
+```
 ```
 mysqld --initialize --console
 ```
-
+  
 臨時密碼 root@localhost: 7!G#JlfxRkN8 (每個人不一樣)  
 --> 7!G#JlfxRkN8  
-
+  
 ```
 mysqld --install
 ```
