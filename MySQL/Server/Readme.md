@@ -50,7 +50,7 @@ mysqld --initialize --console
 ```
 ![GITHUB]( https://github.com/Hsieh-Min-Shao/Programming/blob/main/MySQL/Server/pic/MySqlServerStep1.png "")   
  
-臨時密碼 root@localhost: 7!G#JlfxRkN8 (每個人每次執行都不一樣)  
+臨時密碼在 root@localhost: 7!G#JlfxRkN8 後面這串(每個人每次執行都不一樣)  
 這次執行的密碼是7!G#JlfxRkN8  
   
 ```
