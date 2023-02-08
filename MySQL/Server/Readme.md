@@ -44,18 +44,19 @@ default-character-set=utf8
 ```
 cd C:\mysql-8.0.32-winx64\bin
 ```
-![GITHUB]( https://github.com/Hsieh-Min-Shao/Programming/blob/main/MySQL/Server/pic/MySqlServerStep1.png "圖片名稱")   
   
 ```
 mysqld --initialize --console
 ```
-  
-臨時密碼 root@localhost: 7!G#JlfxRkN8 (每個人不一樣)  
---> 7!G#JlfxRkN8  
+![GITHUB]( https://github.com/Hsieh-Min-Shao/Programming/blob/main/MySQL/Server/pic/MySqlServerStep1.png "")   
+ 
+臨時密碼 root@localhost: 7!G#JlfxRkN8 (每個人每次執行都不一樣)  
+這次執行的密碼是7!G#JlfxRkN8  
   
 ```
 mysqld --install
 ```
+![GITHUB]( https://github.com/Hsieh-Min-Shao/Programming/blob/main/MySQL/Server/pic/MySqlServerStep2.png "")   
 
 修改密碼  
 ```
