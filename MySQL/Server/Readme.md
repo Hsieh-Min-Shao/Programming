@@ -10,6 +10,6 @@ mysqld --initialize --console
 臨時密碼 root@localhost: 7!G#JlfxRkN8 (每個人不一樣)
 --> 7!G#JlfxRkN8
 
----
+```
 mysqld --install
----
+```
