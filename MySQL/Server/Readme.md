@@ -44,6 +44,8 @@ default-character-set=utf8
 ```
 cd C:\mysql-8.0.32-winx64\bin
 ```
+![GITHUB]( https://github.com/Hsieh-Min-Shao/Programming/blob/main/MySQL/Server/pic/MySqlServerStep1.png "圖片名稱")   
+  
 ```
 mysqld --initialize --console
 ```
